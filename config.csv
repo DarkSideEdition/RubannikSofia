@@ -1,5 +1,5 @@
 package_name,curl
-repository_path,https://yandex.ru
+repository_path,https://alpinelinux.org
 repo_mode,online
 output_image,graph.png
 ascii_mode,true
