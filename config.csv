@@ -1,7 +1,8 @@
-package_name,requests
-repository_path,https://github.com
+package_name,curl
+repository_path,https://yandex.ru
 repo_mode,online
 output_image,graph.png
 ascii_mode,true
 max_depth,3
 filter_substring,core
+
