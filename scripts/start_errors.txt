@@ -1,0 +1,7 @@
+# Скрипт с ошибками: ошибочные строки пропускаются
+ls
+unknown_command arg
+cd a b
+ls "незакрытая кавычка
+exit now
+cd /home

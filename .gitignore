@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+*.swp
+build/
+dist/
+*.egg-info/
+*.zip
+*.pdf

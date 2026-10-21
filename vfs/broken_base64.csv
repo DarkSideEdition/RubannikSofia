@@ -1,0 +1,2 @@
+path,type,encoding,content
+/bad.bin,file,base64,это_не_base64!

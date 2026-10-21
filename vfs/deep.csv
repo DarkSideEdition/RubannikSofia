@@ -1,0 +1,12 @@
+path,type,encoding,content
+/home,dir,,
+/home/user,dir,,
+/home/user/projects,dir,,
+/home/user/projects/emulator,dir,,
+/home/user/projects/emulator/main.py,file,text,"print(""hello"")"
+/home/user/projects/emulator/data.bin,file,base64,AAECAwQFBgc=
+/home/user/projects/notes.txt,file,text,заметки
+/home/user/photo.jpg,file,base64,/9j/4AAQSkZJRg==
+/etc/config/app.conf,file,text,debug=true
+/var,dir,,
+/var/log,dir,,
