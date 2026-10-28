@@ -1,9 +1,0 @@
-path,type,encoding,content
-/readme.txt,file,text,"Тестовая VFS: несколько файлов, текст и бинарные данные."
-/notes.txt,file,text,"Строка 1
-Строка 2, с запятой
-Строка ""в кавычках"""
-/pixel.png,file,base64,iVBORw0KGgo=
-/docs,dir,,
-/docs/todo.txt,file,text,купить хлеб
-/empty,dir,,
