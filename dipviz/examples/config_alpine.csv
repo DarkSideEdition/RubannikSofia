@@ -1,0 +1,9 @@
+key,value
+package,curl
+repository,https://dl-cdn.alpinelinux.org/alpine/v3.20/main/x86_64
+test_mode,false
+output,out/curl.svg
+ascii_tree,true
+max_depth,3
+filter,
+reverse,false

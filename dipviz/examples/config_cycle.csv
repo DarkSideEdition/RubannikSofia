@@ -1,0 +1,9 @@
+key,value
+package,A
+repository,examples/cycle_repo.txt
+test_mode,true
+output,out/cycle.svg
+ascii_tree,true
+max_depth,10
+filter,
+reverse,false

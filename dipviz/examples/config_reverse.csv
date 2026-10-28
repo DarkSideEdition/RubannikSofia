@@ -1,0 +1,9 @@
+key,value
+package,D
+repository,examples/test_repo.txt
+test_mode,true
+output,out/reverse.svg
+ascii_tree,true
+max_depth,5
+filter,
+reverse,true
